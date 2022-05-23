@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador RichardS">
+<img src="https://cdn.discordapp.com/attachments/938812383810453555/954079784873386084/LogoGrupoMalwee_marca.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador RichardS">
 
 # Avaliação SA 
 
